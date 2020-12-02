@@ -66,20 +66,3 @@ h2 {
 	text-align: center;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-td{
-	text-align: center;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 25px;
-
-}
-th{
-	text-align: center;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 25px;
-table {
-	color: black;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-.table_h {
-	margin-top: 5px;
-}
